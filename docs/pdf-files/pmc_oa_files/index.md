@@ -680,3 +680,4 @@ title: "PUBMED Open Access PDFs for softcite"
   1. [PMC5414856: Toxicol Sci. 2017 May 25; 157(1):112-128](PMC5414856.pdf)
   1. [PMC5365035: Kardiochir Torakochirurgia Pol. 2016 Dec 3  1. [PMC4906660: Oncol Lett. 2016 Jul 25; 12(1):401-404](PMC4906660.pdf)
   1. [PMC4507389: J Clin Neurol. 2015 Jul 1; 11(3):295](PMC4507389.pdf)
+  1. [PMC4261519: BMB Rep. 2014 Oct; 47(10):593-598](PMC4261519.pdf)
