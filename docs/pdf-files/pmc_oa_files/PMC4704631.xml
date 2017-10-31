@@ -1,0 +1,248 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Braz J Microbiol</journal-id><journal-id journal-id-type="iso-abbrev">Braz. J. Microbiol</journal-id><journal-id journal-id-type="publisher-id">bjm</journal-id><journal-title-group><journal-title>Brazilian Journal of Microbiology</journal-title></journal-title-group><issn pub-type="ppub">1517-8382</issn><issn pub-type="epub">1678-4405</issn><publisher><publisher-name>Sociedade Brasileira de Microbiologia</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">26691459</article-id><article-id pub-id-type="pmc">4704631</article-id><article-id pub-id-type="doi">10.1590/S1517-838246420140466</article-id><article-categories><subj-group subj-group-type="heading"><subject>Environmental Microbiology</subject></subj-group></article-categories><title-group><article-title>Assessing the sources of high fecal coliform levels at an urban tropical
+beach</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Davino</surname><given-names>Aline Mendon&#x000e7;a Cavalcante</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>de Melo</surname><given-names>Milena Bandeira</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Caffaro</surname><given-names>Roberto Augusto</given-names><suffix>Filho</suffix></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref><xref ref-type="corresp" rid="c1"/></contrib><aff id="aff1"><label>1</label>Centro de Tecnologia, Universidade Federal de Alagoas, Macei&#x000f3;, AL,
+Brazil</aff></contrib-group><author-notes><corresp id="c1">Send correspondence to R.A. Caffaro Filho. Centro de Tecnologia,
+Universidade Federal de Alagoas, Macei&#x000f3;, AL, Brazil. E-mail:
+<email>roberto@ctec.ufal.br</email>, <email>caffaro.filho@gmail.com</email></corresp><fn fn-type="other" id="fn1"><p>Associate Editor: Lara Dur&#x000e3;es Sette</p></fn></author-notes><pub-date pub-type="collection"><season>Oct-Dec</season><year>2015</year></pub-date><pub-date pub-type="epub"><day>01</day><month>12</month><year>2015</year></pub-date><volume>46</volume><issue>4</issue><fpage>1019</fpage><lpage>1026</lpage><history><date date-type="received"><day>30</day><month>5</month><year>2014</year></date><date date-type="accepted"><day>10</day><month>2</month><year>2015</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 2015, Sociedade Brasileira de
+Microbiologia</copyright-statement><copyright-year>2015</copyright-year><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by-nc/4.0/"><license-p>All the content of the journal, except where otherwise noted, is licensed
+under a Creative Commons License CC BY-NC.</license-p></license></permissions><abstract><p>Recreational water quality is commonly assessed by microbial indicators such as fecal
+coliforms. Macei&#x000f3; is the capital of Alagoas state, located in tropical northeastern
+Brazil. Its beaches are considered as the most beautiful urban beaches in the
+country. Jati&#x000fa;ca Beach in Macei&#x000f3; was found to be unsuitable for bathing continuously
+during the year of 2011. The same level of contamination was not observed in
+surrounding beaches. The aim of this study was to initiate the search for the sources
+of these high coliform levels, so that contamination can be eventually mitigated. We
+performed a retrospective analysis of historical results of fecal coliform
+concentrations from 2006 to 2012 at five monitoring stations located in the study
+region. Results showed that Jati&#x000fa;ca Beach consistently presented the worst quality
+among the studied beaches. A field survey was conducted to identify existing point
+and non-point sources of pollution in the area. Monitoring in the vicinity of Jati&#x000fa;ca
+was spatially intensified. Fecal coliform concentrations were categorized according
+to tide range and tide stage. A storm drain located in northern Jati&#x000fa;ca was
+identified as the main point source of the contamination. However, fecal coliform
+concentrations at Jati&#x000fa;ca were high during high tides and spring tides even when this
+point source was inactive (no rainfall). We hypothesize that high fecal coliform
+levels in Jati&#x000fa;ca Beach may also be caused by aquifer contamination or, more likely,
+from tide washing of contaminated sand. Both of these hypotheses will be further
+investigated.</p></abstract><kwd-group><kwd>recreational water quality</kwd><kwd>fecal indicators</kwd><kwd>coastal pollution</kwd></kwd-group><counts><fig-count count="5"/><table-count count="0"/><equation-count count="0"/><ref-count count="13"/><page-count count="8"/></counts></article-meta></front><body><sec sec-type="intro"><title>Introduction</title><p>The exposure to microbial pathogens can result in swimming-related illness. Each year,
+millions of cases of gastrointestinal diseases are caused by swimming and bathing in
+wastewater-polluted coastal waters (<xref rid="B11" ref-type="bibr">Shuval,
+2003</xref>). Pathogens enter the water through point sources such as sewage outfalls.
+Water quality at beaches may also be affected by non-point sources, such as storm water
+runoff, sand resuspension, animal fecal inputs, and human bather shedding (<xref rid="B1" ref-type="bibr">Abdelzaher <italic>et al</italic>., 2010</xref>).</p><p>Waterborne pathogens often occur at low concentrations and their detection can be
+difficult. Fecal Indicator Bacteria (FIB) is a group of microorganisms of the comensal
+flora of the gut used to indicate the potential occurrence of pathogens in water. This
+group includes <italic>Escherichia coli</italic>, enterococci, clostridia, etc. FIB are
+generally more abundant and easily measured than fecal pathogens (<xref rid="B9" ref-type="bibr">Edge and Boehm, 2011</xref>).</p><p>Fecal Coliforms (FC) are a group of FIB used to assess recreational water quality
+throughout the world. CONAMA 274/00 Resolution defines the criteria for recreational
+water quality in Brazil, including monitoring methodology, microbiological indicators
+and reference concentrations that classify water as suitable or unsuitable for bathing
+activities. Regarding the concentrations of FC, Brazilian recreational waters are
+considered unsuitable when they exceed 2,500 cfu or MPN/100 mL, or exceed 1,000 cfu or
+MPN/100 mL in more than 20% of the samples collected in a five-week monitoring
+period.</p><p>Tourism accounts for a large part of income generation in the state capitals of the
+Brazilian northeast region, which has a tropical climate. Macei&#x000f3; is the capital of
+Alagoas state, and its beaches are considered the most beautiful urban beaches in
+Brazil. Beach water quality in Macei&#x000f3; is monitored weekly by the state environmental
+agency. According to official data, Jati&#x000fa;ca Beach, one of the main tourist hubs of
+Alagoas, showed unsuitable condition for bathing continuously throughout the year of
+2011. During this period, the same level of contamination was not observed in
+surrounding beaches, namely Ponta Verde and Cruz das Almas. The reasons for this
+exceptional contamination at Jati&#x000fa;ca Beach are unknown. The aim of this study was to
+initiate the search for the sources of high coliform levels in Jati&#x000fa;ca Beach, so that
+this contamination can be eventually mitigated.</p></sec><sec sec-type="materials|methods"><title>Materials and Methods</title><sec><title>Site description</title><p>Jati&#x000fa;ca Beach has a densely urbanized waterfront, with dozens of hotels and hostels,
+as well as bars, restaurants and shops. The surrounding beaches of Ponta Verde
+(south) and Cruz das Almas (north) have similar characteristics. In this coastal
+region, shown in <xref ref-type="fig" rid="f1">Figure 1</xref>, there are five
+monitoring stations for recreational water quality, which are sampled weekly by the
+state environmental agency.</p><fig id="f1" orientation="portrait" position="float"><label>Figure 1</label><caption><title>Study area, located in a densely urbanized coastal region in the city of
+Macei&#x000f3;, capital of Alagoas state, northeastern Brazil. In the figure, on the
+right side, the location of the five existing monitoring stations is shown: one
+at Praia da Ponta Verde (PTV), one at Jati&#x000fa;ca Beach (JTC) and three at Cruz das
+Almas Beach (CRA 1, CRA 2 and CRA 3).</title></caption><graphic xlink:href="1678-4405-bjm-46-04-1019-gf01"/></fig></sec><sec><title>Historical monitoring data analysis</title><p>A retrospective analysis of historical data of fecal coliform (FC) concentrations
+obtained from 2006 to 2012 at the five monitoring stations located in the study site
+was performed. According to the methodology proposed by <xref rid="B4" ref-type="bibr">Boehm <italic>et al</italic>. (2002)</xref>, the results of each year
+were categorized into wet season (obtained in the months of May, June and July - MJJ)
+and dry season (obtained in the months of November, December and January of the
+following year - NDJ). Geometric means and confidence intervals (95%) were calculated
+for each category (<italic>e.g</italic>., 2006 MJJ; 2006 NDJ; etc.). Concentrations
+of FC, date and time of each sampling were obtained from the state environmental
+agency. The accumulated rainfall data were obtained from the state agency responsible
+for rainfall monitoring.</p></sec><sec><title>Study of the surroundings of JTC monitoring station</title><p>Due to recurrent high levels of FC observed in 2011, the state environmental agency
+temporarily increased the monitoring mesh surrounding JTC monitoring station, adding
+a station 100 meters south (JTC S) and 100 meters north (JTC N) of station JTC. FC
+concentrations at these stations and also at stations on adjacent beaches (PTV and
+CRA 1) were evaluated between August and December 2012. For each station, the
+geometric mean and confidence intervals (95%) of FC concentrations were calculated.
+FC concentrations in each monitoring station were also categorized according to tide
+range (spring/neap, based on lunar cycle) and tide stage (&#x02265; 1 m = high and &#x0003c; 1 m =
+low) at sampling. Geometric means and confidence intervals (95%) were calculated for
+each category at each monitoring station.</p></sec></sec><sec><title>Results and Discussion</title><sec><title>Retrospective evaluation of water quality</title><p>
+<xref ref-type="fig" rid="f2">Figure 2</xref> shows the geometric means of FC
+concentrations observed between years 2006 and 2012, during wet (MJJ) and dry seasons
+(NDJ), at monitoring stations PTV, JTC, CRA 1, CRA 2 and CRA 3 collectively and
+individually. Total rainfall in each season can also be seen in the same figure.</p><fig id="f2" orientation="portrait" position="float"><label>Figure 2</label><caption><title>Geometric means of FC concentrations (lines) observed between the years
+2006 and 2012, during wet (MJJ) and dry seasons (NDJ), at monitoring stations
+PTV, JTC, CRA 1, CRA 2 and CRA 3, collectively (all monitoring stations) and
+individually. Total rainfall in each season is represented by bars. This graph
+summarizes results from 841 FC analyses.</title></caption><graphic xlink:href="1678-4405-bjm-46-04-1019-gf02"/></fig><p>As expected, geometric means during wet seasons were always higher than geometric
+means of dry seasons. The same was observed by <xref rid="B4" ref-type="bibr">Boehm
+<italic>et al</italic>. (2002)</xref>, when they evaluated, in a similar
+manner, the variability of microbial indicator concentrations in a southern
+California beach for a period of 43 years. The rainy season of 2009 was an exception
+to this rule. We believe that this was due to systematic analytical or sample
+processing errors, which were corrected by the agency after this short period.</p><p>Between 2010 and 2012, we note that JTC station (Jati&#x000fa;ca Beach) showed higher
+geometric means when compared to the means of all other monitoring stations taken
+together (upper left corner). This becomes more evident, if we consider only the dry
+season of 2011, when the geometric mean at JTC was greater than 1,000 MPN/100 mL.</p><p>Since the pollution signal is indiscriminately high during wet seasons, we grouped
+the geometric means (in logarithmic scale) for the monitoring stations considering
+only the dry season of each year, as shown in <xref ref-type="fig" rid="f3">Figure
+3</xref>.</p><fig id="f3" orientation="portrait" position="float"><label>Figure 3</label><caption><title>Geometric means (lines) in logarithmic scale and confidence intervals (95%)
+of FC concentrations observed between 2006 and 2012, during dry seasons (NDJ),
+at monitoring stations PTV, JTC, CRA 1, CRA 2 and CRA 3, collectively (all
+monitoring stations) and individually. Total rainfall in each season is
+represented by bars. This graph summarizes results from 406 FC
+analyses.</title></caption><graphic xlink:href="1678-4405-bjm-46-04-1019-gf03"/></fig><p>During dry seasons, the log geometric mean of FC while considering all monitoring
+stations collectively (top left) fell between 2 and 2.5, throughout the study period.
+However, JTC station showed higher log geometric means of FC, between 2.5 and 3.
+Thus, Jati&#x000fa;ca Beach consistently presented the worst quality among all the beaches
+considered in this research.</p><p>For year 2012, we can see a significant improvement in overall quality of surveyed
+stations. We attribute it to the atypical low rainfall observed in that year, even
+during the wet season.</p></sec><sec><title>Spatial intensification of monitoring around Jati&#x000fa;ca Beach</title><p>In order to assess the cause of the high levels of FC in Jati&#x000fa;ca Beach a field survey
+was conducted to identify existing point and non-point sources of pollution in the
+area. Also, monitoring in the vicinity of station JTC was spatially intensified. Two
+new stations, Jati&#x000fa;ca north (JTC N) and Jati&#x000fa;ca south (JTC S) were added to the
+monitoring grid and sampled weekly for approximately 4 months between August and
+December 2012.</p><p>The coastal discharges found in the study region are shown in <xref ref-type="fig" rid="f4">Figure 4</xref>. Altogether, 6 storm drains and a stream that can
+directly influence water quality were identified. In <xref ref-type="fig" rid="f4">Figure 4</xref>, the geometric means of FC for the monitoring stations sampled
+between August and December 2012 are also presented. The pollution signal was greater
+north of JTC monitoring station, near station JTC-N.</p><fig id="f4" orientation="portrait" position="float"><label>Figure 4</label><caption><title>Coastal discharges found in the study region and geometric means of FC with
+confidence intervals (95%) for monitoring stations PTV, JTC and CRA 1, plus
+additional stations 100 meters south (JTC S) and north (JTC N) of JTC station.
+This chart summarizes 85 samples collected between August and December
+2012.</title></caption><graphic xlink:href="1678-4405-bjm-46-04-1019-gf04"/></fig><p>Northeastern wind prevails during the months of September to December in Macei&#x000f3;,
+generating currents in the north-south direction. Considering this characteristic and
+on the basis of the field survey, we identified a storm drain slightly north of the
+station JTC-N as the main point source of fecal contamination in Jati&#x000fa;ca Beach (storm
+drain 1 / <xref ref-type="fig" rid="f4">Figure 4</xref>).</p><p>Contaminated water discharge into the sea through storm drains has been observed in
+some studies in other capitals of the northeast region of Brazil. High FC
+concentrations (10<sup>6</sup>-10<sup>7</sup>) were found in storm drains of
+Fortaleza and Natal and attributed to contamination by sewage (<xref rid="B8" ref-type="bibr">Cardonha <italic>et al</italic>., 2004</xref>; <xref rid="B12" ref-type="bibr">Vieira <italic>et al</italic>., 2002</xref>). This seems to be a common
+situation, since in storm drain 1, in an earlier study, <italic>Escherichia
+coli</italic> concentrations of the same magnitude were detected (data not shown).
+Therefore, we consider that mitigation of the high FC levels in Jati&#x000fa;ca Beach should
+start by solving the sewage contamination in this storm drain. This would require a
+joint effort of the company that manages the sanitary sewer system and municipality
+that manages the storm water system.</p><p>However, the high FC levels found in Jati&#x000fa;ca Beach between September and December
+2012 cannot be explained only by influence of storm drain 1, since this period is
+characteristically dry and 2012 was a year drier than normal. To further assess other
+potential causes for the observed high levels of FC, the results were categorized
+according to tide range and tide stage at the moment of sampling.</p></sec><sec><title>Categorization of results according to tide range and tide stage</title><p>The calculated geometric means and confidence intervals (95%) after categorization of
+FC concentrations for tide range (spring/neap) and stage (high/low) at the moment of
+sampling are shown in <xref ref-type="fig" rid="f5">Figure 5</xref> for monitoring
+stations PTV, JTC-S, JTC, JTC-N and CRA-1.</p><fig id="f5" orientation="portrait" position="float"><label>Figure 5</label><caption><title>Geometric means (log scale) and confidence intervals (95%) after
+categorization of FC concentrations for tide range (spring/neap - upper chart)
+and stage (high/low - lower chart) at the moment of sampling for monitoring
+stations PTV, JTC-S, JTC, JTC-N and CRA-1. Each chart summarizes 85 FC
+concentration analyses between August and December 2012.</title></caption><graphic xlink:href="1678-4405-bjm-46-04-1019-gf05"/></fig><p>During spring tides the range between low and high tide is higher than during neap
+tides, promoting higher hydraulic dynamics in coastal waters and having greater
+potential to dilute contamination from point sources such as sewage-contaminated
+storm drains and sewer outfalls (<xref rid="B4" ref-type="bibr">Boehm <italic>et
+al</italic>., 2002</xref>). The three monitoring stations in Jati&#x000fa;ca Beach (JTC
+S, JTC and JTC N) showed higher FC geometric means in spring tides than in neap
+tides. The point JTC N presented a FC geometric mean over 1,000 MPN/100 mL during
+spring tides. This same pattern was not observed in the surrounding stations of Ponta
+Verde Cruz das Almas. In Jati&#x000fa;ca Beach, where the main source appears to be a point
+source (storm drain 1), it was expected that the highest means should be observed
+during neap tides, when there is less dilution of contamination from storm drain 1.
+Therefore, results indicate that there must be another source of contamination,
+probably non-point source, at work in that region.</p><p>It has been shown that tide stage can influence concentrations of fecal indicator
+bacteria (<xref rid="B2" ref-type="bibr">Boehm and Weisberg, 2005</xref>). In this
+study, we observed higher FC geometric means during high tides (except for PTV
+station). This finding is consistent with other studies conducted in different
+localities. <xref rid="B13" ref-type="bibr">Wright <italic>et al</italic>.
+(2011)</xref> and <xref rid="B1" ref-type="bibr">Abdelzaher <italic>et
+al</italic>. (2010)</xref> also observed higher concentrations of fecal indicators
+during high tides, and <xref rid="B3" ref-type="bibr">Boehm <italic>et al</italic>.
+(2003)</xref> found the highest concentrations during ebb tides (immediately after
+high tide).</p><p>Based on the results of tide categorization, we formulated two hypotheses that could
+explain the high levels of FC found in Jati&#x000fa;ca Beach. The first hypothesis is the
+contamination of the aquifer near the shoreline. At high tides during spring tides,
+seawater penetrates deeper into the aquifer and this contamination can be brought
+back to the water column. Indeed, studies have shown that fecal indicator organisms
+are not significantly filtered by subsurface sand (<xref rid="B5" ref-type="bibr">Boehm <italic>et al</italic>., 2004</xref>).</p><p>We conducted a field survey to identify if buildings close to monitoring station JTC
+N were connected to the sewer system. Many buildings in the area precede the
+establishment of a sewer system, having individual septic systems that should be
+discontinued when sewer trunks were available. However, in the two closest blocks
+from JTC N monitoring station, we observed two buildings (34 apartments in total), a
+hostel (40 apartments), two shops and a mall (24 shops, two restaurants and a bar)
+that still do not have connection to the sewer system. <xref rid="B7" ref-type="bibr">Cahoon <italic>et al</italic>. (2006)</xref> determined malfunctioning septic
+systems as the primary source of water contamination in an estuarine zone in North
+Carolina. In the same manner, aquifer contamination at Jati&#x000fa;ca could result from
+malfunctioning septic systems. Aquifer contamination could also be caused by leaks in
+a sewer trunk line. This hypothesis was proposed by <xref rid="B3" ref-type="bibr">Boehm <italic>et al</italic>. (2003)</xref> to explain high concentrations of
+fecal indicators in groundwater found at a beach in California. We recommend
+conducting a detailed investigation of groundwater quality at Jati&#x000fa;ca Beach, as well
+as inspections on the sewer trunk line and septic systems in the region to confirm or
+refute this hypothesis.</p><p>The second hypothesis, proposed to explain the high FC levels at Jati&#x000fa;ca Beach
+observed even during dry periods, is the presence of high concentrations of FC in its
+beach sand. There is evidence showing that fecal microorganisms are able to survive
+and multiply in soils and sediments of tropical beaches (<xref rid="B6" ref-type="bibr">Byappanahalli and Fujioka, 1998</xref>). <xref rid="B10" ref-type="bibr">Phillips <italic>et al</italic>. (2011)</xref> observed a correlation between the
+concentrations of microorganisms in sand and water, in a study conducted in eight
+different beaches in Florida, USA, and suggested that the sand is the predominant
+reservoir of fecal microorganisms that impact water quality. To assess this
+hypothesis, a detailed investigation of the quality of the sand of Jati&#x000fa;ca Beach is
+needed.</p><p>
+<xref rid="B13" ref-type="bibr">Wright <italic>et al</italic>. (2011)</xref>
+conducted a study to assess the sources of high levels of enterococci in a
+subtropical beach. They monitored storm drain water quality and also beach sand
+quality along a transect perpendicular to shoreline. In addition to high levels of
+enterococci found in coastal discharges, the authors observed that the concentration
+of enterococci decreases as it moves away from the inter-tidal zone, both in sea and
+continent direction, concluding that the source of enterococci in the studied beach
+was within the intertidal-zone. Thus, coastal discharges and tide washing of the sand
+can play a major role in controlling the levels of fecal indicators in the water
+column.</p><p>We believe that the best explanation for the causes of high FC levels in Jati&#x000fa;ca
+Beach is very similar to the findings of <xref rid="B13" ref-type="bibr">Wright
+<italic>et al</italic>. (2011)</xref>. Our results indicate that the influence
+of storm drain 1 is the primary source of FC to the water column. When this point
+source is inactive (when there's no rainfall) high FC levels can arise from tide
+washing of contaminated sand, which explains the higher FC geometric means observed
+during high tides and spring tides.</p><p>The systematic assessment of quality of coastal waters is used to classify them in
+relation to bathing conditions. However, to ensure public health protection, it is
+necessary to find and mitigate the causes of the high levels of contamination often
+found in urban coastal areas. In this study, we initiated an assessment of the causes
+of high FC levels in an urban coastal environment in a tropical region, and proposed
+two hypotheses which will be further investigated in future research.</p><p>This study, similar to others (<xref rid="B8" ref-type="bibr">Cardonha <italic>et
+al</italic>., 2004</xref>; <xref rid="B12" ref-type="bibr">Vieira <italic>et
+al</italic>., 2002</xref>), exposes the deficiencies in sanitation of an
+important city in northeastern Brazil. All these cities have tourism as a major
+contributor in their economies. Those who manage to assure good water quality to
+their beaches will be at a privileged position, bringing benefits to the health of
+its citizens and to the performance of the local economy.</p></sec></sec></body><back><ack><p>Acknowledgments</p><p>The authors thank Regina Lucia Pinheiro de Carvalho and Ricardo C&#x000e9;sar de Oliveira from
+the environmental state agency (Instituto do Meio Ambiente do Estado de Alagoas - IMA)
+for their help in obtaining information and extremely important data for this work, and
+Carlos Davino for assistance in the statistical treatment of the data.</p></ack><ref-list><title>References</title><ref id="B1"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Abdelzaher</surname><given-names>AM</given-names></name><name><surname>Wright</surname><given-names>ME</given-names></name><name><surname>Ortega</surname><given-names>C</given-names></name><etal/></person-group><year>2010</year><article-title>Presence of pathogens and indicator microbes at a non-point source
+subtropical recreational marine beach</article-title><source>Appl Environ Microbiol</source><volume>76</volume><fpage>724</fpage><lpage>732</lpage><pub-id pub-id-type="pmid">19966020</pub-id></element-citation></ref><ref id="B2"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Boehm</surname><given-names>AB</given-names></name><name><surname>Weisberg</surname><given-names>SB</given-names></name></person-group><year>2005</year><article-title>Tidal forcing of enterococci at marine recreational beaches at
+fortnightly and semidiurnal frequencies</article-title><source>Environ Sci Technol</source><volume>39</volume><fpage>5575</fpage><lpage>5583</lpage><pub-id pub-id-type="pmid">16124289</pub-id></element-citation></ref><ref id="B3"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Boehm</surname><given-names>AB</given-names></name><name><surname>Fuhrman</surname><given-names>JA</given-names></name><name><surname>Mrse</surname><given-names>RD</given-names></name><etal/></person-group><year>2003</year><article-title>Tiered approach for identification of a human fecal pollution source
+at a recreational beach: Case study at Avalon Bay, Catalina Island,
+California</article-title><source>Environ Sci Technol</source><volume>37</volume><fpage>673</fpage><lpage>680</lpage><pub-id pub-id-type="pmid">12636264</pub-id></element-citation></ref><ref id="B4"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Boehm</surname><given-names>AB</given-names></name><name><surname>Grant</surname><given-names>SB</given-names></name><name><surname>Kim</surname><given-names>JH</given-names></name><etal/></person-group><year>2002</year><article-title>Decadal and shorter period variability of surf zone water quality at
+Huntington Beach, California</article-title><source>Environ Sci Technol</source><volume>36</volume><fpage>3885</fpage><lpage>3892</lpage><pub-id pub-id-type="pmid">12269739</pub-id></element-citation></ref><ref id="B5"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Boehm</surname><given-names>AB</given-names></name><name><surname>Shellenbarger</surname><given-names>GG</given-names></name><name><surname>Paytan</surname><given-names>A</given-names></name></person-group><year>2004</year><article-title>Groundwater discharge: Potential association with fecal indicator
+bacteria in the surf zone</article-title><source>Environ Sci Technol</source><volume>38</volume><fpage>3558</fpage><lpage>3566</lpage><pub-id pub-id-type="pmid">15296305</pub-id></element-citation></ref><ref id="B6"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Byappanahalli</surname><given-names>MN</given-names></name><name><surname>Fujioka</surname><given-names>RS</given-names></name></person-group><year>1998</year><article-title>Evidence that tropical soil environment can support the growth of
+<italic>Escherichia coli</italic>
+</article-title><source>Water Sci Technol</source><volume>38</volume><fpage>171</fpage><lpage>174</lpage></element-citation></ref><ref id="B7"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cahoon</surname><given-names>LB</given-names></name><name><surname>Hales</surname><given-names>JC</given-names></name><name><surname>Carey</surname><given-names>ES</given-names></name><etal/></person-group><year>2006</year><article-title>Shellfishing closures in southwest Brunswick County, North Carolina:
+Septic tanks <italic>vs</italic>. storm-water runoff as fecal coliform
+sources</article-title><source>J Coastal Res</source><volume>22</volume><fpage>319</fpage><lpage>327</lpage></element-citation></ref><ref id="B8"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cardonha</surname><given-names>AMS</given-names></name><name><surname>Vieira</surname><given-names>RH</given-names></name><name><surname>Rodrigues</surname><given-names>DP</given-names></name><etal/></person-group><year>2004</year><article-title>Fecal pollution in water from storm sewers and adjacent seashores in
+Natal, Rio Grande do Norte, Brazil</article-title><source>Int Microbiol</source><volume>7</volume><fpage>213</fpage><lpage>218</lpage><pub-id pub-id-type="pmid">15492936</pub-id></element-citation></ref><ref id="B9"><element-citation publication-type="book"><person-group person-group-type="author"><name><surname>Edge</surname><given-names>TA</given-names></name><name><surname>Boehm</surname><given-names>AB</given-names></name></person-group><year>2011</year><chapter-title>Classical and molecular methods to measure fecal
+bacteria</chapter-title><person-group person-group-type="editor"><name><surname>Sadowsky</surname><given-names>MJ</given-names></name><name><surname>Whitman</surname><given-names>RL</given-names></name></person-group><source>The Fecal Bacteria</source><publisher-name>ASM Press</publisher-name><publisher-loc>Washington D.C</publisher-loc><fpage>241</fpage><lpage>273</lpage></element-citation></ref><ref id="B10"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Phillips</surname><given-names>MC</given-names></name><name><surname>Solo-Gabriele</surname><given-names>HM</given-names></name><name><surname>Piggot</surname><given-names>AM</given-names></name><etal/></person-group><year>2011</year><article-title>Relationships between sand and water quality at recreational
+beaches</article-title><source>Water Res</source><volume>45</volume><fpage>6763</fpage><lpage>6769</lpage><pub-id pub-id-type="pmid">22071324</pub-id></element-citation></ref><ref id="B11"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Shuval</surname><given-names>H</given-names></name></person-group><year>2003</year><article-title>Estimating the global burden of thalassogenic diseases: Human
+infectious diseases caused by wastewater pollution of the marine
+environment</article-title><source>J Water Health</source><volume>2</volume><fpage>53</fpage><lpage>64</lpage><pub-id pub-id-type="pmid">15382734</pub-id></element-citation></ref><ref id="B12"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vieira</surname><given-names>RH</given-names></name><name><surname>Catter</surname><given-names>KM</given-names></name><name><surname>Saker-Sampaio</surname><given-names>S</given-names></name><etal/></person-group><year>2002</year><article-title>The stormwater drain system as a pollution vector of the seashore in
+Fortaleza (Cear&#x000e1; State, Brazil)</article-title><source>Braz J Microbiol</source><volume>33</volume><fpage>294</fpage><lpage>298</lpage></element-citation></ref><ref id="B13"><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wright</surname><given-names>ME</given-names></name><name><surname>Abdelzaher</surname><given-names>AM</given-names></name><name><surname>Solo-Gabriele</surname><given-names>HM</given-names></name><etal/></person-group><year>2011</year><article-title>The inter-tidal zone is the pathway of input of enterococci to a
+subtropical recreational marine beach</article-title><source>Water Sci Technol</source><volume>63</volume><fpage>542</fpage><lpage>549</lpage><pub-id pub-id-type="pmid">21278478</pub-id></element-citation></ref></ref-list></back></article>
